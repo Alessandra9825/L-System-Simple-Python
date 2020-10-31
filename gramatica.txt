@@ -1,0 +1,5 @@
+Axioma: -F-A+BCF+A-BC++F-FFABCF+F-FFFABCFFABCFFFFFFABC
+Regras: A=X+YF+,B=-FX-Y,C=X+YF+
+Alfabeto: A,B,C,F
+90
+
